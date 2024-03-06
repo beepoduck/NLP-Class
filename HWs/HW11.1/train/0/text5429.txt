@@ -1,0 +1,1 @@
+rbs worldpay payment processor beweert down te zijn door earthquake tot zover de high availability #diemoetikonthouden

@@ -1,0 +1,1 @@
+a vegetation index ndvi derived from satellite data that measures vegetation vigor and density is an excellent tool to establish crop yield potential

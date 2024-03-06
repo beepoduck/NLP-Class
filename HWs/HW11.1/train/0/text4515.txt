@@ -1,0 +1,1 @@
+begin vbkm version 1 0 title item3 url http 172 16 3 136 wap news french php#item3 begin env x irmc urlquoted printable internetshortcut urlhttp 172 16 3 136 wap news french php#item3 end env end vbkm

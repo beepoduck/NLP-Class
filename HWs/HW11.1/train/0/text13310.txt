@@ -1,0 +1,1 @@
+his cornell team has developed a model to calculate wave amplitude and the direction of wave propagation in the near shore environment

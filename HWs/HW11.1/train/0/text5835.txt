@@ -1,0 +1,1 @@
+parameters nst 125 nph 125 dmin 620 7 km rmss 1 07 sec gp 40 m type moment magnitude mw version 6
